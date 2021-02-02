@@ -23,3 +23,5 @@ The code was built using the Java programming language, using Java Runtime Editi
 
 The Query class MUST be run concurrently with the Chord class in order for your query to work.
 When running the percentages denote where your node is located on the Chord ring.
+
+The zmake file will compile everything.
