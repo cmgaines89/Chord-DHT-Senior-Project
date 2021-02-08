@@ -1,6 +1,5 @@
 /*
-Corinne Gaines
-COSC 495 - Fall 2020
+C. Gaines
 Chord Project
 */
 
