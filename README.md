@@ -1,6 +1,4 @@
 # Chord-DHT-Senior-Project
-Chord DHT Project created for Senior Seminar Course.
-
 The code was built using the Java programming language, using Java Runtime Edition (JRE) 11, Java Development Kit (JDK) 11 and Ubuntu 20.04 LTS distribution. The program uses several class files with multi-threading to demonstrate how the Chord DHT algorithm is implemented, as well as the Chord Ring geometry. 
 
 •	The Chord class is the main class of the program, which offers UI to create a Chord node and join an existing Chord ring.
